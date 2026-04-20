@@ -35,21 +35,57 @@ Day-03/
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How the Random Quote Generator Works
 
-1. A list of quotes is stored in an array
-2. A random index is generated using:
+1. A list of quotes is stored in an array.
 
-```id="n8d2x7"
+2. A `Set` is used to keep track of which quotes have already been displayed.
+
+   * This prevents the same quote from appearing again until all quotes are used.
+
+3. When the button is clicked, the `generateQuote()` function runs.
+
+4. The program first checks:
+
+   * If all quotes have been used (`usedIndexes.size === quotes.length`)
+   * If true, the set is cleared to restart the cycle.
+
+5. A random index is generated using:
+
+```js
 Math.floor(Math.random() * quotes.length)
 ```
 
-3. A `Set` is used to track previously used indexes
-4. If a quote has already been used, another random index is generated
-5. Once all quotes are used, the set resets
-6. The selected quote is displayed on the page
+6. The program checks if this index has already been used:
+
+   * If yes → it skips and tries again
+   * If no → it selects the quote
+
+7. The selected quote is displayed on the webpage using:
+
+```js
+quoteElement.textContent = quote;
+```
+
+8. The index is added to the `Set` to mark it as used.
+
+9. The process repeats with each button click, ensuring all quotes are shown once before repeating.
 
 ---
+
+## 🧠 Key Logic
+
+* Random selection → `Math.random()`
+* Avoid repetition → `Set`
+* Loop control → `while`, `continue`, `break`
+* DOM update → `textContent`
+
+---
+
+## 🔁 Flow Summary
+
+> Generate random quote → check if used → display → store → repeat
+
 
 ## 💡 Key Concepts Learned
 
