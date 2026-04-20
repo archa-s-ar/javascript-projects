@@ -8,7 +8,7 @@ This project demonstrates core JavaScript concepts like DOM manipulation, event 
 
 ## 🚀 Features
 
-* 🎯 Change background color using predefined buttons (Green, Blue, Red)
+* 🎯 Change background color using predefined buttons (Green, Blue, Red, Random)
 * 🎲 Generate random colors dynamically
 * ⚡ Instant UI updates
 * 🎨 Clean and simple user interface
