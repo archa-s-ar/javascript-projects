@@ -4,9 +4,10 @@ This repository contains my JavaScript practice projects, built to strengthen my
 ## Projects
 
 1. Color Flipper
-2. To-Do App
-3. Calculator
-4. Library Search System
+2. Palindrome Checker
+3. Random Quote Generator
+4. Stop Watch
+5. To-Do list
 
 ## Tech Used
 - HTML
