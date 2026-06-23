@@ -13,6 +13,3 @@ This repository contains my JavaScript practice projects, built to strengthen my
 - HTML
 - CSS
 - JavaScript
-
-
-🛑Status: On Hold (till May 15)
