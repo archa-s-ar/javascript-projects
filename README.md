@@ -8,6 +8,8 @@ This repository contains my JavaScript practice projects, built to strengthen my
 3. Random Quote Generator
 4. Stop Watch
 5. To-Do list
+6. Counter
+7. Roll
 
 ## Tech Used
 - HTML
