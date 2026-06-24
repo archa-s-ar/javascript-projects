@@ -11,6 +11,7 @@ This repository contains my JavaScript practice projects, built to strengthen my
 6. Counter
 7. Roll
 8. Age
+9. Checkbox
 
 ## Tech Used
 - HTML
