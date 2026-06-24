@@ -10,6 +10,7 @@ This repository contains my JavaScript practice projects, built to strengthen my
 5. To-Do list
 6. Counter
 7. Roll
+8. Age
 
 ## Tech Used
 - HTML
