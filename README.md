@@ -20,6 +20,7 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 12 | Temperature Conversion Program | Functions, DOM |
 | 13 | Dice Roller | Arrays, loops, DOM, template literals, innerHTML, join(), random numbers |
 | 14 | Random Password Generator | Functions, DOM |
+| 15 | Timer | setTimeout(), clearTimeout(), Events |
 
 ## Tech Stack
 
