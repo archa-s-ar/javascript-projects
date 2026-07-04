@@ -15,13 +15,13 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 07 | Dice Roll Simulator | Math.random() |
 | 08 | Age Calculator | User Input, Conditions |
 | 09 | Checkbox & Radio Buttons | Forms |
-| 10 | *(Coming Soon)* | — |
+| 10 | Click Counter | Closures, DOM, Event Listeners |
 | 11 | Number Guessing Game | Loops, Conditions |
 | 12 | Temperature Conversion Program | Functions, DOM |
 | 13 | Dice Roller | Arrays, loops, DOM, template literals, innerHTML, join(), random numbers |
 | 14 | Random Password Generator | Functions, DOM |
 | 15 | Timer | setTimeout(), clearTimeout(), Events |
-
+| 16 | Digital Clock | Date Object, setInterval(), Template Literals, padStart(), DOM |
 ## Tech Stack
 
 - HTML5

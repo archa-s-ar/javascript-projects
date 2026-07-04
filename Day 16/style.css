@@ -1,0 +1,15 @@
+body{
+    margin:0;
+}
+#clock-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    border:2px solid;
+    
+}
+#clock{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+}
