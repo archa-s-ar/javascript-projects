@@ -23,6 +23,8 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 15 | Timer | setTimeout(), clearTimeout(), Events |
 | 16 | Digital Clock | Date Object, setInterval(), Template Literals, padStart(), DOM |
 | 17 | Stopwatch | Date.now(), setInterval(), clearInterval(), Event Handling, DOM Manipulation |
+| 18 | Calculator | DOM Manipulation, Event Handling, Functions, eval(), Error Handling |
+
 
 ## Tech Stack
 
