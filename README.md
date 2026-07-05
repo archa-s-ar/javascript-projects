@@ -22,6 +22,8 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 14 | Random Password Generator | Functions, DOM |
 | 15 | Timer | setTimeout(), clearTimeout(), Events |
 | 16 | Digital Clock | Date Object, setInterval(), Template Literals, padStart(), DOM |
+| 17 | Stopwatch | Date.now(), setInterval(), clearInterval(), Event Handling, DOM Manipulation |
+
 ## Tech Stack
 
 - HTML5

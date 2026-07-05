@@ -1,0 +1,63 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+}
+#H1{
+    font-size:4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(58, 58, 58)
+}
+#container{
+    background-color: beige;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    border:5px solid;
+    border-radius: 50px;
+    padding:50px;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#startbtn, #stopbtn, #resetbtn{
+    font-size: 25px;
+    padding:10px 20px;
+    margin:20px;
+    color:white;
+    border-radius: 20px;
+    border:none;
+    transition: background-color 0.3s ease;
+}
+#startbtn{
+    background-color: rgb(7, 81, 1);
+}
+#startbtn:hover{
+    background-color: rgb(17, 193, 4);
+}
+#startbtn:active{
+    background-color: rgb(4, 81, 14);
+}
+#stopbtn{
+    background-color: rgb(81, 7, 7);
+}
+#stopbtn{
+    background-color: rgb(81, 7, 7);
+}
+#stopbtn:hover{
+    background-color: rgb(193, 17, 17);
+}
+#stopbtn:active{
+    background-color: rgb(81, 7, 7);
+}
+#resetbtn{
+    background-color: rgb(217, 255, 4);
+    color:black;
+}
+#resetbtn:hover{
+    background-color: rgb(255, 255, 4);
+}
+#resetbtn:active{
+    background-color: rgb(217, 255, 4);
+}
