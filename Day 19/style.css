@@ -1,0 +1,27 @@
+#myBox{
+    background-color: lightgreen;
+    width:300px;
+    height: 300px;
+    font-size: 4.1rem;
+    font-weight: bold;
+    display:flex;
+    align-items:center;
+    text-align: center;
+    border-radius: 50px;
+    padding: 25px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap:20px;
+}
+button{
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 50px;
+    background-color: green;
+    font-size: 2rem;
+    color:aliceblue;
+}

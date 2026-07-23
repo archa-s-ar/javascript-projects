@@ -24,7 +24,7 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 16 | Digital Clock | Date Object, setInterval(), Template Literals, padStart(), DOM |
 | 17 | Stopwatch | Date.now(), setInterval(), clearInterval(), Event Handling, DOM Manipulation |
 | 18 | Calculator | DOM Manipulation, Event Handling, Functions, eval(), Error Handling |
-
+|19 | Interactive Event Box | JavaScript event listener demo using click and mouse events. | 
 
 ## Tech Stack
 
