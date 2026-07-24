@@ -27,6 +27,7 @@ A collection of JavaScript projects built while learning the fundamentals of web
 | 19 | Mood Box | Event Listeners, Mouse Events, DOM Manipulation, Dynamic Styling |
 | 20 | Keyboard Navigator | Keyboard Events, Arrow Keys, DOM Manipulation, CSS Positioning |
 | 21 | Image Visibility Toggle | Event Listeners, DOM Manipulation, CSS display, CSS visibility |
+| 22 | Button State Manager | querySelectorAll(), classList.add(), classList.remove(), classList.replace(), Event Listeners, Mouse Events |
 
 ## Tech Stack
 

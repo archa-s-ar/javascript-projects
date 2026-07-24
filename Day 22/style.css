@@ -1,0 +1,28 @@
+.myButtons{
+    padding: 12px 24px;
+    margin: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: royalblue;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.enabled {
+    background: #8B1E3F;
+    color: white;
+    cursor: pointer;
+}
+
+.disabled {
+    background: gray;
+    color: lightgray;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.hover {
+    background: #b11f4d;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
